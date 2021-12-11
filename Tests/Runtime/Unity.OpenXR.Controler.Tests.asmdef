@@ -1,0 +1,11 @@
+{
+  "name": "Unity.OpenXR.Controler.Tests",
+  "references": [
+    "Unity.com.openxr.controller"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

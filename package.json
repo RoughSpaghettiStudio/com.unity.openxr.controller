@@ -1,0 +1,36 @@
+{
+  "name": "com.unity.openxr.controller",
+  "displayName": "OpenXR Controller",
+  "version": "1.0.0",
+  "description": "Base OpenXR Controller",
+  "dependencies": { },
+  "keywords": [
+    "unity",
+	"openXR",
+	"controller",
+    "roughSpaghetti"
+  ],
+  "homepage": "https://github.com/RoughSpaghettiStudio",
+  "bugs": {
+    "url": "https://github.com/RoughSpaghettiStudio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RoughSpaghettiStudio"
+  },
+  "license": "MIT",
+  "author": "RoughSpaghettiStudios",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "samples~": [
+    {
+      "displayName": "Head only ",
+      "description": "Head only VR controller",
+      "path": "Samples/HeadOnlyController"
+    }
+  ]
+}
+
+

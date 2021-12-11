@@ -1,0 +1,10 @@
+{
+  "samples": 
+  [
+    {
+      "displayName": "HeadOnlyVRController",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/HeadOnlyVRController"
+    }
+  ]
+}
