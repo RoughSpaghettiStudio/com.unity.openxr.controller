@@ -36,6 +36,11 @@
       "displayName": "Head only ",
       "description": "Head only VR controller",
       "path": "Samples~/HeadOnlyVRController"
+    },
+    {
+      "displayName": "PlayerRigController",
+      "description": "Template Player Controller",
+      "path": "Samples~/PlayerRigController"
     }
   ]
 }
