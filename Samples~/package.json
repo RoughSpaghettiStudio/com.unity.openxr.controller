@@ -5,6 +5,11 @@
       "displayName": "HeadOnlyVRController",
       "description": "Contains sample shaders for the High Definition render pipeline",
       "path": "Samples~/HeadOnlyVRController"
+    },
+    {
+      "displayName": "PlayerRigController",
+      "description": "Template Player Controller",
+      "path": "Samples~/PlayerRigController"
     }
   ]
 }
