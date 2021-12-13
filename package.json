@@ -2,6 +2,7 @@
   "name": "com.unity.openxr.controller",
   "displayName": "OpenXR Controller",
   "version": "1.0.0",
+  "unity": "2020.3",
   "description": "Base OpenXR Controller",
   "dependencies": {
     "com.unity.modules.xr": "1.0.0",
@@ -33,14 +34,9 @@
 
   "samples": [
     {
-      "displayName": "Head only ",
+      "displayName": "StaticHeadController",
       "description": "Head only VR controller",
-      "path": "Samples~/HeadOnlyVRController"
-    },
-    {
-      "displayName": "PlayerRigController",
-      "description": "Template Player Controller",
-      "path": "Samples~/PlayerRigController"
+      "path": "Samples~/StaticHeadController"
     }
   ]
 }
